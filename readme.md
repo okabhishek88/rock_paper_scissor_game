@@ -31,3 +31,5 @@ Test your skills against the computer and see how many rounds you can win.
 Here are some screenshots of the R-P-S Game in action:
 
 ![_rock_p_s](https://github.com/user-attachments/assets/0bc41ed2-fab6-4d7c-a070-7414f30c41ff)
+
+![Image](https://github.com/user-attachments/assets/0e9bf3f2-e37d-4e65-adc1-507ec6091330)
