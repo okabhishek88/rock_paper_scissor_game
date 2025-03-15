@@ -23,7 +23,7 @@ The **Rock Paper Scissors Game** is a simple and fun game where the player compe
 Check out the live demo of the **Rock Paper Scissors Game**!  
 Test your skills against the computer and see how many rounds you can win.
 
-👉 **[Live Demo]([insert-demo-link](https://rockpaperscissorgame-okabhishek88.vercel.app/)**
+👉 **[Live Demo]([insert-demo-link](https://rockpaperscissorgame-okabhishek88.vercel.app/))**
 
 ---
 
